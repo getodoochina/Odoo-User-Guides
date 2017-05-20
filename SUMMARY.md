@@ -27,10 +27,10 @@
 * Overview
   * Introduction to Odoo Project
 * Configuration and basic usage
-  * How to set up & configure a project?
-  * How to visualize a project's tasks?
-  * How to manage & collaborate on tasks?
-  * How to record time spent?
+  * [How to set up & configure a project?](project/configuration/setup.md)
+  * [How to visualize a project's tasks?](project/configuration/visualization.md)
+  * [How to manage & collaborate on tasks?](project/configuration/collaboration.md)
+  * [How to record time spent?](project/configuration/time_record.md)
 * Planning your project
   * How to plan and track employees' assignments?
   * How to forecast tasks?
