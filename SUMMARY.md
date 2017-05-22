@@ -27,7 +27,7 @@
 * Overview
   * Introduction to Odoo Project
 * Configuration and basic usage
-  * [How to set up & configure a project?](project/configuration/setup.md)
+  * [如何安装与配置项目管理?](project/configuration/setup.md)
   * [How to visualize a project's tasks?](project/configuration/visualization.md)
   * [How to manage & collaborate on tasks?](project/configuration/collaboration.md)
   * [How to record time spent?](project/configuration/time_record.md)
