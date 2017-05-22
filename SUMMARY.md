@@ -29,7 +29,7 @@
 * Configuration and basic usage
   * [如何安装与配置项目管理?](project/configuration/setup.md)
   * [如何可视化项目的任务？](project/configuration/visualization.md)
-  * [How to manage & collaborate on tasks?](project/configuration/collaboration.md)
+  * [如何管理任务以及任务协作？](project/configuration/collaboration.md)
   * [How to record time spent?](project/configuration/time_record.md)
 * Planning your project
   * How to plan and track employees' assignments?
