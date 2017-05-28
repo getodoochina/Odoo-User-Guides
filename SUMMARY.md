@@ -8,7 +8,7 @@
 
 * Overview
 * [Sales Team](crm/sales-team.md)
-  * [How to create a new team?](crm/salesteam/create_team.md)
+  * [如何创建新的销售团队?](crm/salesteam/create_team.md)
 * Leads
 * Reporting
 * Calendar
