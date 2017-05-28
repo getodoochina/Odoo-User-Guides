@@ -12,7 +12,7 @@
   * [设置和管理您的销售管道](crm/salesteam/organize_pipeline.md)
   * [如何创建新的销售人员?](crm/salesteam/create_salesperson.md)
   * [如何激励和奖励我的销售人员？](crm/salesteam/reward.md)
-* [Leads](crm/leads.md)
+* [线索](crm/leads.md)
   * [如何在ODOO CRM中创建客户联系人?](crm/leads/manual.md)
   * [如何导入联系人到CRM?](crm/leads/import.md)
   * [如何通过邮件收取生成相关线索?](crm/leads/emails.md)
