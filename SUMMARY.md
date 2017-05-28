@@ -14,6 +14,7 @@
   * [如何激励和奖励我的销售人员？](crm/salesteam/reward.md)
 * [Leads](crm/leads.md)
   * [如何在ODOO CRM中创建客户联系人?](crm/leads/manual.md)
+  * [如何导入联系人到CRM?](crm/leads/import.md)
 * Reporting
 * Calendar
   * How to synchronize your Odoo Calendar with Google Calendar
