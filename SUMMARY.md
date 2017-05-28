@@ -12,7 +12,8 @@
   * [设置和管理您的销售管道](crm/salesteam/organize_pipeline.md)
   * [如何创建新的销售人员?](crm/salesteam/create_salesperson.md)
   * [如何激励和奖励我的销售人员？](crm/salesteam/reward.md)
-* Leads
+* [Leads](crm/leads.md)
+  * [如何在ODOO CRM中创建客户联系人?](crm/leads/manual.md)
 * Reporting
 * Calendar
   * How to synchronize your Odoo Calendar with Google Calendar
