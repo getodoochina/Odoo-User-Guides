@@ -6,6 +6,14 @@
 
 ## CRM
 
+* Overview
+* [Sales Team](crm/sales-team.md)
+  * [How to create a new team?](crm/salesteam/create_team.md)
+* Leads
+* Reporting
+* Calendar
+  * How to synchronize your Odoo Calendar with Google Calendar
+
 ## Sales
 
 ## Website
