@@ -1,4 +1,4 @@
-# How to generate leads from incoming emails?
+# 如何通过邮件收取生成相关线索?
 
 有几种方式为你的公司使用Odoo CRM 生成线索。一种是使用你公司的公共邮箱地址作为触法生成一个新的线索。在Odoo中, 每个销售团队被链接到他们自己的邮箱地址以便潜在客户能联系上他们。比如, 如果你的Direct团队的个人邮件地址是 **direct@mycompany.example.com** , 每个发送的邮件会自动生成一个新的机会在销售团队中。
 

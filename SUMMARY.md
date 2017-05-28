@@ -15,7 +15,7 @@
 * [Leads](crm/leads.md)
   * [如何在ODOO CRM中创建客户联系人?](crm/leads/manual.md)
   * [如何导入联系人到CRM?](crm/leads/import.md)
-  * [How to generate leads from incoming emails?](crm/leads/emails.md)
+  * [如何通过邮件收取生成相关线索?](crm/leads/emails.md)
 * Reporting
 * Calendar
   * How to synchronize your Odoo Calendar with Google Calendar
