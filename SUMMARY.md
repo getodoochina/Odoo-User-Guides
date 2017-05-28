@@ -11,6 +11,7 @@
   * [如何创建新的销售团队?](crm/salesteam/create_team.md)
   * [设置和管理您的销售管道](crm/salesteam/organize_pipeline.md)
   * [如何创建新的销售人员?](crm/salesteam/create_salesperson.md)
+  * [如何激励和奖励我的销售人员？](crm/salesteam/reward.md)
 * Leads
 * Reporting
 * Calendar
