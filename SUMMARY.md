@@ -7,8 +7,9 @@
 ## CRM
 
 * Overview
-* [Sales Team](crm/sales-team.md)
+* [销售团队](crm/sales-team.md)
   * [如何创建新的销售团队?](crm/salesteam/create_team.md)
+  * [设置和管理您的销售管道](crm/salesteam/organize_pipeline.md)
 * Leads
 * Reporting
 * Calendar
