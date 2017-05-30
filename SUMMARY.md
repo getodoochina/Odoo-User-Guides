@@ -36,6 +36,7 @@
 * Overview
 * [Settings](inventory/settings.md)
   * [如何使用不同计量单位？](inventory/settings/uom.md)
+  * [Using product variants](inventory/settings/variants.md)
 * Warehouse Management
 * Shipping
 * Advanced Routes
