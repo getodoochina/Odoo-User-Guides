@@ -38,7 +38,7 @@
   * [如何使用不同计量单位？](inventory/settings/uom.md)
   * [使用产品型号\(变体\)](inventory/settings/variants.md)
   * [何时应该使用包装,计量单位或者套装？](inventory/settings/usage.md)
-  * [How to use packages?](inventory/settings/packages.md)
+  * [如何使用包裹？](inventory/settings/packages.md)
 * Warehouse Management
 * Shipping
 * Advanced Routes
