@@ -33,6 +33,14 @@
 
 ## Inventory
 
+* Overview
+* [Settings](inventory/settings.md)
+  * [How to use different units of measure?](inventory/settings/uom.md)
+* Warehouse Management
+* Shipping
+* Advanced Routes
+* Barcodes
+
 ## Manufacturing
 
 ## Point of Sale
