@@ -35,7 +35,7 @@
 
 * Overview
 * [Settings](inventory/settings.md)
-  * [How to use different units of measure?](inventory/settings/uom.md)
+  * [如何使用不同计量单位？](inventory/settings/uom.md)
 * Warehouse Management
 * Shipping
 * Advanced Routes
