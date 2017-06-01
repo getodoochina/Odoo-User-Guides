@@ -43,6 +43,7 @@
   * [如何创建一个新的仓库？](inventory/settings/warehouse_creation.md)
   * [如何创建新的位置？](inventory/settings/location_creation.md)
 * Warehouse Management
+  * [How to make the initial inventory?](inventory/management/initial_inventory.md)
 * Shipping
 * Advanced Routes
 * Barcodes
