@@ -41,7 +41,7 @@
   * [如何使用包裹？](inventory/settings/packages.md)
   * [仓库和位置之间的差别是什么？](inventory/settings/difference_warehouse_location.md)
   * [如何创建一个新的仓库？](inventory/settings/warehouse_creation.md)
-  * [How to create a new location?](inventory/settings/location_creation.md)
+  * [如何创建新的位置？](inventory/settings/location_creation.md)
 * Warehouse Management
 * Shipping
 * Advanced Routes

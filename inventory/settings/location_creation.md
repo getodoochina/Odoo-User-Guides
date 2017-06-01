@@ -1,4 +1,4 @@
-# How to create a new location?
+# 如何创建新的位置？
 
 ## 配置
 
