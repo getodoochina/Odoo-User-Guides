@@ -40,6 +40,7 @@
   * [何时应该使用包装,计量单位或者套装？](inventory/settings/usage.md)
   * [如何使用包裹？](inventory/settings/packages.md)
   * [仓库和位置之间的差别是什么？](inventory/settings/difference_warehouse_location.md)
+  * [How to create a new warehouse?](inventory/settings/warehouse_creation.md)
 * Warehouse Management
 * Shipping
 * Advanced Routes
