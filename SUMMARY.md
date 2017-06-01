@@ -4,6 +4,13 @@
 
 ## Accounting
 
+* Overview
+* Account Receivables
+  * [Overview of the invoicing process](accounting/receivables/overview.md)
+* Account Payables
+* Bank & Cash
+* Others
+
 ## CRM
 
 * Overview
