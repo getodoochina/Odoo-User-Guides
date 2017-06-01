@@ -1,4 +1,4 @@
-# How to create a new warehouse?
+# 如何创建一个新的仓库？
 
 ## 配置
 
