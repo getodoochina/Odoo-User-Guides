@@ -6,7 +6,7 @@
 
 * Overview
 * Account Receivables
-  * [Overview of the invoicing process](accounting/receivables/overview.md)
+  * [开票流程概述](accounting/receivables/overview.md)
 * Account Payables
 * Bank & Cash
 * Others
