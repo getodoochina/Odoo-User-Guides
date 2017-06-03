@@ -9,6 +9,7 @@
   * [开票流程概述](accounting/receivables/overview.md)
   * [如何设置现金折扣？](accounting/receivables/cash_discounts.md)
   * [如何理解使用付款条件](accounting/receivables/payment_terms.md)
+  * [How to define an installment plan on customer invoices?](accounting/receivables/installment_plans.md)
 * Account Payables
 * Bank & Cash
 * Others
