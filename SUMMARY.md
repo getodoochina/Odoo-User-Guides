@@ -8,7 +8,7 @@
 * Account Receivables
   * [开票流程概述](accounting/receivables/overview.md)
   * [如何设置现金折扣？](accounting/receivables/cash_discounts.md)
-  * [How to setup and use payment terms](accounting/receivables/payment_terms.md)
+  * [如何理解使用付款条件](accounting/receivables/payment_terms.md)
 * Account Payables
 * Bank & Cash
 * Others
