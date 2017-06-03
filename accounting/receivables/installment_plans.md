@@ -1,4 +1,4 @@
-# How to define an installment plan on customer invoices?
+# 如何为客户发票制定分期付款计划?
 
 为了管理分期付款，应使用付款方式。适用于客户发票和供应商账单。
 
