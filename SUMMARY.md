@@ -7,6 +7,7 @@
 * Overview
 * Account Receivables
   * [开票流程概述](accounting/receivables/overview.md)
+  * [How to setup cash discounts?](accounting/receivables/cash_discounts.md)
 * Account Payables
 * Bank & Cash
 * Others
