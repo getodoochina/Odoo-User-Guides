@@ -15,6 +15,7 @@
   * [什么时候应该使用供应商帐单或购买发票？](accounting/payables/bills_or_receipts.md)
   * [使用SEPA](accounting/payables/sepa.md)
   * [使用支票支付](accounting/payables/check.md)
+  * [如何一次性支付几个账单？](accounting/payables/multiple.md)
 * Bank & Cash
 * Others
 
