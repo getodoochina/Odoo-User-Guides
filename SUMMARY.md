@@ -11,6 +11,7 @@
   * [如何理解使用付款条件](accounting/receivables/payment_terms.md)
   * [如何为客户发票制定分期付款计划?](accounting/receivables/installment_plans.md)
 * Account Payables
+  * [如何管理供应商账单？](accounting/payables/manage.md)
 * Bank & Cash
 * Others
 
