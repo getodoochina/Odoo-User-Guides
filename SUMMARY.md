@@ -14,6 +14,7 @@
   * [如何管理供应商账单？](accounting/payables/manage.md)
   * [什么时候应该使用供应商帐单或购买发票？](accounting/payables/bills_or_receipts.md)
   * [使用SEPA](accounting/payables/sepa.md)
+  * [使用支票支付](accounting/payables/check.md)
 * Bank & Cash
 * Others
 
